@@ -1,0 +1,12 @@
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\bin\Debug\A-KEY-PASS.exe.config
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\bin\Debug\A-KEY-PASS.exe
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\bin\Debug\A-KEY-PASS.pdb
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Debug\A-KEY-PASS.csprojAssemblyReference.cache
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Debug\A_KEY_PASS.Form1.resources
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Debug\A_KEY_PASS.Properties.Resources.resources
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Debug\A-KEY-PASS.csproj.GenerateResource.cache
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Debug\A-KEY-PASS.csproj.CoreCompileInputs.cache
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Debug\A-KEY-PASS.exe
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Debug\A-KEY-PASS.pdb
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Debug\A_KEY_PASS.Display.resources
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Debug\A_KEY_PASS.New_Entry.resources

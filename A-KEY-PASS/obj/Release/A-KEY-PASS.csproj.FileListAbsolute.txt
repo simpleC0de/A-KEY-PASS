@@ -1,0 +1,11 @@
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\bin\Release\A-KEY-PASS.exe.config
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\bin\Release\A-KEY-PASS.exe
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\bin\Release\A-KEY-PASS.pdb
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Release\A_KEY_PASS.Display.resources
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Release\A_KEY_PASS.Form1.resources
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Release\A_KEY_PASS.New_Entry.resources
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Release\A_KEY_PASS.Properties.Resources.resources
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Release\A-KEY-PASS.csproj.GenerateResource.cache
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Release\A-KEY-PASS.csproj.CoreCompileInputs.cache
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Release\A-KEY-PASS.exe
+C:\Users\t.hetznecker\source\repos\A-KEY-PASS\A-KEY-PASS\obj\Release\A-KEY-PASS.pdb
